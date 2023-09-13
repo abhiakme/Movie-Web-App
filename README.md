@@ -1,8 +1,9 @@
 # WEB Application Link:-
 
-[Click Hear](https://competitun-task.web.app)
+URL 
+Open [https://competitun-task.web.app](https://competitun-task.web.app). to view it in your browser.
 
-or URL:-###`https://competitun-task.web.app`
+
 
 
 
