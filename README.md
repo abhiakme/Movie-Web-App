@@ -1,7 +1,6 @@
 # WEB Application Link:-
 
-URL 
-Open [https://competitun-task.web.app](https://competitun-task.web.app). to view it in your browser.
+URL:- [https://competitun-task.web.app](https://competitun-task.web.app). Click on Given Url to View it in your browser.
 
 
 
